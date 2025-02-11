@@ -8,7 +8,7 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "23710378"))
 API_HASH = getenv("API_HASH", "a5ebe1fd8ae5715a9eb2a9364001189a")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "7757089758:AAFfXelYrSdXkx7ctzSJwqqzGExyYcAf6J8")
+BOT_TOKEN = getenv("BOT_TOKEN", "7757089758:AAHYmhP8RUk-YpIZGwv_YhfgF7XQRCa66Yc")
 OWNER_USERNAME = getenv("OWNER_USERNAME","AloneHuVai")
 BOT_USERNAME = getenv("BOT_USERNAME" , "BeatlesXMusicBot")
 BOT_NAME = getenv("BOT_NAME" , "𝖡𝖾𝖺𝗍𝗅𝖾𝗌 𝖬𝗎𝗌𝗂𝖼✨~")
